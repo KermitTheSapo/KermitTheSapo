@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Robert J.
 
-- 🔭 Hoje estou procurando oportunidades
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🔭 Hoje estou procurando oportunidades!!
+- 🌱 Estudando: HTML, CSS e JavaScript
 - 📫 Contacte-me no gmail: Rjsf06@gmail.com
 - 😄 Pronouns: Ele/Dele 
 
@@ -26,6 +26,5 @@
   
   ![Snake animation](https://github.com/kermitthesapo/kermitthesapo/blob/output/github-contribution-grid-snake.svg)
 
-  
 </div>
 
