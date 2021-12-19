@@ -1,10 +1,5 @@
 ### Olá! Meu nome é Robert J.
 
-- 🔭 Hoje estou procurando oportunidades
-- 🌱 Estudando HTML, CSS e JavaScript
-- 📫 Contacte-me no gmail: Rjsf06@gmail.com
-- 😄 Pronouns: Ele/Dele 
-
 <div align="center">
   <a href="https://github.com/KermitTheSapo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KermitTheSapo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
