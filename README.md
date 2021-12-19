@@ -3,7 +3,7 @@
 - 🔭 Hoje estou procurando oportunidades!!
 - 🌱 Estudando: HTML, CSS e JavaScript
 - 📫 Contacte-me no gmail: Rjsf06@gmail.com
-- 😄 Pronouns: Ele/Dele 
+- 😄 Pronomes: Ele/Dele 
 
 <div align="center">
   <a href="https://github.com/KermitTheSapo">
