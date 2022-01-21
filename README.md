@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/KermitTheSapo">
-  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=KermitTheSapo&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=KermitTheSapo&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KermitTheSapo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kermitthesapo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
