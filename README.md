@@ -4,6 +4,7 @@
 - 🌱 Estudando: **HTML, CSS e JavaScript**
 - 📫 Contacte-me no gmail: Rjsf06@gmail.com
 - 😄 Pronomes: **Ele/Dele** 
+- 🤓 Estudante Front-end do Vai Na Web
 
 <div align="center">
   <a href="https://github.com/KermitTheSapo">
