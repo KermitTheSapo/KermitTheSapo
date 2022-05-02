@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Robert J.
 
-- 🔭 Hoje estou procurando oportunidades!!
+- 🔭 Estou procurando oportunidades!!
 - 🌱 Estudando: **HTML, CSS e JavaScript**
 - 📫 Contacte-me no gmail: Rjsf06@gmail.com
 - 😄 Pronomes: **Ele/Dele** 
