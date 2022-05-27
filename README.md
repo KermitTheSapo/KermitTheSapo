@@ -5,7 +5,7 @@
 - 📫 Contacte-me no gmail: Rjsf06@gmail.com
 - 😄 Pronomes: **Ele/Dele** 
 - 🤓 Estudante Front-end do Vai Na Web
-- 🥳 Cursando Analise e desenvolvimento de sistemas na Uninassau
+- 🥳 Cursando Analise e desenvolvimento de sistemas na Uninassau (04/2022 - 04/2024)
 
 <div align="center">
   <a href="https://github.com/KermitTheSapo">
