@@ -1,38 +1,69 @@
-### Olá! Meu nome é Robert J.
+<h1 align="center">Hi, I'm Robert José</h1>
+<p align="center">
+  Software Engineer focused on full-stack development, scalable products, and user experience.
+</p>
 
-- 🔭 Estou procurando oportunidades!!
-- 🌱 Estudando: **React e Typescript**
-- 📫 Contacte-me no gmail: Rjsf06@gmail.com
-- 😄 Pronomes: **Ele/Dele** 
-- 🥳 Cursando Analise e desenvolvimento de sistemas na Uninassau (04/2022 - 04/2024)
-
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/robertjos%C3%A9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Robert%20Jos%C3%A9-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Rjsf06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Rjsf06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://github.com/KermitTheSapo">
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=KermitTheSapo&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KermitTheSapo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kermitthesapo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KermitTheSapo&bg_color=0d1117&color=ffffff&line=ff6691&point=2ea6a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Robert-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Robert-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Robert-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Robert-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Robert-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="Robert-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" alt="Robert-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" alt="Robert-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div>
-  
-  ##
-  
-<div>
-  <a href = "mailto:rjsf06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/kermitthesapo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href = "https://api.whatsapp.com/send?phone=5581985171055" target= "_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/kermitthesapo/kermitthesapo/blob/output/github-contribution-grid-snake.svg)
-</div>
+    <img src="https://img.shields.io/badge/GitHub-KermitTheSapo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
+---
+
+## About me
+
+- Software Engineer II at Compass UOL
+- Building solutions for Vivo
+- Experience with products used by 6M+ monthly users
+- Strong focus on React, TypeScript, Node.js, and frontend architecture
+- Interested in performance, scalability, design systems, and developer experience
+
+---
+
+## Highlights
+
+- Reduced page load time by 40% through React optimization
+- Reduced production incidents by 25% with Datadog monitoring and alerting
+- Built admin systems with role-based access control
+- Delivered critical flows for onboarding, payments, transactions, and account management
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,nestjs,html,css,sass,redux,jest,cypress,docker,kubernetes,git,github,gitlab,azure,figma,postman" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KermitTheSapo&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Current Focus
+
+- Frontend engineering for high-scale products
+- Performance optimization
+- Design systems
+- Monitoring and production reliability
+- Clean architecture and code quality
+
+---
+
+## Contact
+
+- LinkedIn: [robertjosé](https://www.linkedin.com/in/robertjos%C3%A9/)
+- GitHub: [KermitTheSapo](https://github.com/KermitTheSapo)
+- Email: [Rjsf06@gmail.com](mailto:Rjsf06@gmail.com)
